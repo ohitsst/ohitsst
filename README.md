@@ -11,7 +11,7 @@
       👩‍💻 I'm currently learning Javacript and React.
        </li>
       <li>
-  Here is a link to my first interactive weather app (currently building) <a href="https://www.meteoappbyt.netlify.app](https://github.com/ohitsst/meteo" target="_blank"> Weather app </a>
+  Here is a link to my first interactive weather app (currently building) <a href="https://github.com/ohitsst/meteo.git" target="_blank"> Weather app </a>
       </li>
       <li>
       🤖 Here is how to reach me on <a href="https://www.linkedin.com/in/tijuana-w-96106b1b8" target="_blank"> Linkedin </a>        
