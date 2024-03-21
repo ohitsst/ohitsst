@@ -2,7 +2,7 @@
 
 <ul>
   <li>
-    👋 Hi I'm T, Cuurently an Elementary School Teacher!
+    👋 Hi I'm T, Currently an Elementary School Teacher!
  </li>
   <li>
 👀 I'm interested in Frontend Development and want to get started in the tech industry!
