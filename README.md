@@ -13,7 +13,6 @@
        <li>
          Here is a link to my Portfolio where all of my recent projects can be found <a href="https://tweatherspoon.netlify.app" target="_blank"> Portfolio </a>
        </li>
-  
       <li>
   Here is a link to my first interactive weather app (currently building) <a href="https://github.com/ohitsst/meteo.git" target="_blank"> Weather app (open source) </a>  and 
         <a href="https://meteoappbyt.netlify.app" target="_blank">
