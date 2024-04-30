@@ -2,13 +2,13 @@
 
 <ul>
   <li>
-    👋 Hi I'm T, Currently an Elementary School Teacher!
+    👋 Hi I'm T, Former Elementary School Teacher!
  </li>
   <li>
-👀 I'm interested in Frontend Development and want to get started in the tech industry!
+👀 Now a FullStack Engineer
    </li>
     <li>
-      👩‍💻 I'm currently learning Javacript and React.
+      👩‍💻 Experienced in Javacript, React, and Responsive
        </li>
        <li>
          Here is a link to my Portfolio where all of my recent projects can be found <a href="https://tweatherspoon.netlify.app" target="_blank">Portfolio</a>
